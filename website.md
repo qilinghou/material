@@ -257,7 +257,7 @@ http://www.fbisb.com/
 #http://cvbox.sinaapp.com/
 
 
-#/**********************************只是点（面试）**************************/
+#/**********************************只是**************************/
 
 #http://www.cnblogs.com/zyf-zhaoyafei/p/4828358.html
 #http://www.zhaoyafei.cn/index.php/content.html?id=29
